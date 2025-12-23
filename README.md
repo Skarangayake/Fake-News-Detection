@@ -27,3 +27,10 @@ The model is deployed as an interactive **Streamlit web application**.
 ## 🌐 Live Demo
 👉 **Try the app here:**  
 https://fake-news-detection29.streamlit.app/
+
+---
+## Future Improvements
+- Upgrade to BERT-based model
+- Add multilingual support
+- Explainable AI (word importance)
+- User file upload (PDF/news)
