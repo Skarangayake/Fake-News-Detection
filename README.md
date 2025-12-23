@@ -6,7 +6,7 @@ The model is deployed as an interactive **Streamlit web application**.
 
 ---
 
-## 🚀 Features
+## Features
 - Fake vs Real news classification
 - NLP-based text preprocessing
 - TF-IDF vectorization
@@ -16,7 +16,7 @@ The model is deployed as an interactive **Streamlit web application**.
 
 ---
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python
 - Streamlit
 - Scikit-learn
