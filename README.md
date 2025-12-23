@@ -22,3 +22,8 @@ The model is deployed as an interactive **Streamlit web application**.
 - Scikit-learn
 - NLP (TF-IDF)
 - Logistic Regression
+
+---
+## 🌐 Live Demo
+👉 **Try the app here:**  
+https://fake-news-detection29.streamlit.app/
